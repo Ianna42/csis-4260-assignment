@@ -100,6 +100,12 @@ The dashboard allows you to:
 | README.md | Project instructions |
 
 ---
+## Large Data Files
+
+Due to GitHub file size limits, the dataset files are stored on Google Drive:
+
+https://drive.google.com/drive/folders/1h2Xr3YdZZT5FRW8a_4YWxB55LYT9tsmf?usp=sharing
+
 
 ## Summary
 
